@@ -29,9 +29,10 @@ while True:
         print("GOOD BYE !")
     
     elif choice == "5":
-        tasks.clear(task)
+        tasks.clear()
         print("your tasks were cleared")
     else :
         print("Invalid Choice")
+
 
 
